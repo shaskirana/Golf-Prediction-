@@ -267,6 +267,8 @@ if predict_btn:
 st.markdown("---")
 with st.expander("ℹ️ Tentang Model"):
     st.markdown("""
+
+     model ini memiliki train accuracy 0.70 dan test accuracy 0.69                      
     **Model:** Random Forest Classifier
     
     **Fitur yang digunakan:**
@@ -280,7 +282,7 @@ with st.expander("ℹ️ Tentang Model"):
     - One-hot encoding untuk variabel kategorikal
     - Feature scaling untuk variabel numerik
     
-    **Catatan:** Model dilatih menggunakan data historis perilaku pemain golf.
+    **note:** Model dilatih menggunakan data historis perilaku pemain golf.
     Akurasi prediksi dapat bervariasi tergantung kualitas data input.
     """)
 
