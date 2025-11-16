@@ -284,4 +284,4 @@ with st.expander("ℹ️ Tentang Model"):
     Akurasi prediksi dapat bervariasi tergantung kualitas data input.
     """)
 
-st.caption("© 2024 Golf Prediction System | Powered by Streamlit & scikit-learn")
+st.caption("© 2025 Golf Prediction System by Shaski | Powered by Streamlit & scikit-learn")
